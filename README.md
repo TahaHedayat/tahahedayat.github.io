@@ -1,13 +1,13 @@
 <head>
-  Taha Hedayat
 <style text="text/css">
   .img_deg{
     float: right;
     width: 30%;
     }
 </style>
-  
 </head>
+
+<center> <h1> Taha Hedayat </h1> </center>
 
 <center> <h3> <em>Email:</em> taha.hedayat@ucalgary.ca, <em>Discord:</em> thatmathboy </h3> </center>
 
