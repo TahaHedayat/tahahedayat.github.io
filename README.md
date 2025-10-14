@@ -6,14 +6,14 @@
     }
 </style>
 </head>
-
+<title> Taha Hedayat </title>
 <center> <h1> Taha Hedayat </h1> </center>
 
 <center> <h3> <em>Email:</em> taha.hedayat@ucalgary.ca, <em>Discord:</em> thatmathboy </h3> </center>
 
 <body>
-  <h3> Current Life </h3>
   <img class="img_deg" src="profilepic.png">
+  <h3> Current Life </h3>
   <ul>
     <li> <b>Pronouns:</b> he/him/his </li>
     <li> <b>School:</b> University of Calgary </li> 
