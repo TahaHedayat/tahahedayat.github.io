@@ -9,7 +9,7 @@
   
 </head>
 
-<center> <h3> Email:<taha.hedayat@ucalgary.ca, Discord: thatmathboy </h3> </center>
+<center> <h3> Email:taha.hedayat@ucalgary.ca, Discord: thatmathboy </h3> </center>
 
 <h3> Current Life </h3>
 <body>
