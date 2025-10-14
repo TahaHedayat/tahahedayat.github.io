@@ -3,6 +3,7 @@
 <style text="text/css">
   .img_deg{
     float: right;
+    width: 10%;
     }
 </style>
   
@@ -16,12 +17,12 @@
   <img class="img_deg" src="profilepic.png">
   
   <p>
-    - **Pronouns:** he/him/his
-    - **School:** University of Calgary
-    - **Degree:** Bachelor of Science - Honours
-    - **Graduating Year:** 2026
-    - **Major:** Mathematics
-    - **Minor:** Music
+    - <b>Pronouns:</b> he/him/his
+    - <b>School:</b> University of Calgary
+    - <b>Degree:</b> Bachelor of Science - Honours
+    - <b>Graduating Year:</b> 2026
+    - <b>Major:</b> Mathematics
+    - <b>Minor:</b> Music
   </p>
 </body>
 
