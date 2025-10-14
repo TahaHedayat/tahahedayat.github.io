@@ -1,4 +1,3 @@
-title: 'tahahedayat.github.io'
 <head>
 <style text="text/css">
   .img_deg{
