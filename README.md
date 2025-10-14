@@ -1,3 +1,4 @@
+title: 'tahahedayat.github.io'
 <head>
 <style text="text/css">
   .img_deg{
@@ -6,7 +7,6 @@
     }
 </style>
 </head>
-<title> Taha Hedayat </title>
 <center> <h1> Taha Hedayat </h1> </center>
 
 <center> <h3> <em>Email:</em> taha.hedayat@ucalgary.ca, <em>Discord:</em> thatmathboy </h3> </center>
