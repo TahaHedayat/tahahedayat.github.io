@@ -58,6 +58,9 @@
   </ul>
 </ul>
 
+<h3> Talks Given </h3>
+
+
 <h3> Teaching Assistant Experience </h3>
 <ul>
   <li> Fall 2025: MATH 311. </li>
