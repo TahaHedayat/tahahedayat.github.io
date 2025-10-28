@@ -59,7 +59,26 @@
 </ul>
 
 <h3> Talks Given </h3>
-
+<ul>
+  <li> Isogeny Graphs in Cryptography </li>
+  <ul>
+    <li> Title: The Spine of the Supersingular $\ell$-Isogeny Graph</li>
+    <li> Date: 07/08/2025</li>
+    <li> Location: Banff International Research Station for Mathematical Innovation and Discovery</li>
+  </ul>
+  <li> LMFDB, Computation, and Number Theory 2025 </li>
+  <ul>
+    <li> Title: The Spine of a Supersingular Ell-Isogeny Graph </li>
+    <li> Date: 08/07/2025</li>
+    <li> Location: Institute for Computational and Experimental Research in Mathematics, Brown University</li>
+  </ul>
+  <li> Alberta Math Diologue 2025 </li>
+  <ul>
+    <li> Title: The Math Behind a Post-Quantum Cryptographic System: Supersingular Ell-Isogeny Graphs </li>
+    <li> Date: 01/05/2025</li>
+    <li> Location: University of Calgary </li>
+  </ul>
+</ul>
 
 <h3> Teaching Assistant Experience </h3>
 <ul>
