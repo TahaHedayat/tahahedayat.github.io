@@ -110,14 +110,14 @@
   </ul>
   <li> Canadian Undergraduate Mathematics Conference 2025 </li>
   <ul>
-    <li> 
+    <li> Talk 1:
       <ul>
         <li> Title: Post-Quantum Cryptography: The Spine of the Supersingular Ell-Isogeny Graph </li>
         <li> Date: 24/06/2025 </li>
         <li> Location: University of Waterloo </li>
       </ul>
     </li>
-    <li> 
+    <li> Talk 2:
       <ul>
         <li> Title: Can AI Teach Proof? Student experiences with a custom chatbot in an introductory Algebra course </li>
         <li> Date: 25/06/2025 </li>
@@ -125,6 +125,7 @@
       </ul>
     </li>
   </ul>
+  <li> </li>
 </ul>
 
 <h3> Teaching Assistant Experience </h3>
