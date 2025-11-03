@@ -34,7 +34,20 @@
     <li> Funded by the Undergraduate Student Research Award </li>
     <li> The goal of this research project was to explore the connections between graph theory and the graphical representation of a Markov chain. The project concluded with us examining a particular Markov chain that sampled st-paths within a planar graph. This MC had a mixing time dependent on the diameter of the graphical representation of the MC, which in turn depended on the planar representation of the sampling graph. Sage code was written to generate the graphical representation given a planar graph with a specific embedding. Future work will use algorithms and Sage code already written to gather data on which embeddings of a planar graph result in the most optimized mixing time.</li>
   </ul>
-  <li> The Spine of a Supersingular $\ell$-Isogeny Graph 2024 </li>
+  
+  <li> The Intelligent Tutoring System </li>
+  <ul>
+    <li> July 2024 - April 2025 </li>
+    <li> Supervisors </li>
+    <ul>
+      <li> Dr. Thomas Bitoun </li>
+      <li> Dr. Anna Funk </li>
+    </ul>
+    <li> Funded by the Taylor Institute for Teaching and Learning </li>
+    <li> This research project focused on developing and testing prompts for an LLM to see if and how an LLM can best help students learn within a proof-based course. We focused particularly on the introductory abstract algebra course at the University of Calgary, MATH 315. We spend the summer studying which parts of the student learning process LLM was good at, and which ones the LLM was lacking. At the same time, we developed a prompt that addressed the issues we faced and made the LLM communicate with students in the methods advised by teaching agencies. In the next rendition of the course, we ran a study to see how the prompted LLM (dubbed the Intelligent Tutoring System) actually helped the students in their approach to understanding abstract algebra. </li>
+  </ul>
+    
+  <li> The Spine of a Supersingular Ell-Isogeny Graph 2024 </li>
   <ul>
     <li> May 2024 - August 2024 </li>
     <li> Superisors:</li>
@@ -45,7 +58,7 @@
     <li> Funded by the Undergraduate Student Research Award </li>
     <li> This research project was a continuation of our research in 2023. From the great amount of data collected last year, we wanted to spend time analyzing what they represented. However, what became clear was that we did not have a theoretical idea of how the graph should be. Hence, we spent time to make the structure of the spine of the supersingular $\ell$-isogeny graph as explicit as possible. Dr. Arpin and her co-authors had made precise statements about the structure of the spine in their 2021 paper <a href="https://www.tandfonline.com/doi/full/10.1080/10586458.2021.1926009?scroll=top&needAccess=true" target="_blank">Adventures in Supersingularland</a>. However, we made more precise statements about the precise structure of the spine through parameters of $p$ and $\ell$. This project resulted in our paper getting accepted at LuCaNT. The pre-print for which is available <a href="https://arxiv.org/abs/2502.03613" target="_blank">here</a>.  </li>
   </ul>
-  <li> The Spine of a Supersingular $\ell$-Isogeny Graph 2023 </li>
+  <li> The Spine of a Supersingular Ell-Isogeny Graph 2023 </li>
   <ul>
     <li> May 2024 - August 2024 </li>
     <li> Superisors:</li>
@@ -54,12 +67,18 @@
       <li> Dr. Renate Scheidler</li>
     </ul>
     <li> Funded by the Undergraduate Student Research Award </li>
-    <li> This project was aimed at us trying to understand the graph theoretic structures behind the, assumed to be random, supersingular $\ell$-sogeny graph. The majority of the time of the project was spent on me catching up on the material, but once I had enough background, we spent time writing Sage code which generates the isogney graph over the finite field or finite field squared, and the spine. This code also grabbed a metric load of data about the spine, the full isogeny graph, and how the two interacted with each other. The project ended with us making plans to analize the gathered data in the following summer year.</li>
+    <li> This project was aimed at us trying to understand the graph theoretic structures behind the, assumed to be random, supersingular $\ell$-sogeny graph. The majority of the time of the project was spent on me catching up on the material, but once I had enough background, we spent time writing Sage code which generates the isogney graph over the finite field or finite field squared, and the spine. This code also grabbed a metric load of data about the spine, the full isogeny graph, and how the two interacted with each other. The project ended with us making plans to analyze the gathered data the following summer.</li>
   </ul>
 </ul>
 
 <h3> Talks Given </h3>
 <ul>
+  <li> Celebrating Undergraduate Research 2025 </li>
+  <ul>
+    <li> Title: Optimization of Sampling Simple 𝒔𝒕-Paths on Planar Graphs According to their Length </li>
+    <li> Date: 23/09/2025 </li>
+    <li> Location: Unvisersity of Calgary </li>
+  </ul>
   <li> Isogeny Graphs in Cryptography </li>
   <ul>
     <li> Title: The Spine of the Supersingular $\ell$-Isogeny Graph</li>
@@ -74,9 +93,37 @@
   </ul>
   <li> Alberta Math Diologue 2025 </li>
   <ul>
-    <li> Title: The Math Behind a Post-Quantum Cryptographic System: Supersingular Ell-Isogeny Graphs </li>
-    <li> Date: 01/05/2025</li>
-    <li> Location: University of Calgary </li>
+    <li> 
+      <ul>
+        <li> Title: The Math Behind a Post-Quantum Cryptographic System: Supersingular Ell-Isogeny Graphs </li>
+        <li> Date: 01/05/2025 </li>
+        <li> Location: University of Calgary </li>
+      </ul>
+    </li>
+    <li> 
+      <ul>
+        <li> Title: Can AI teach proof? Student experiences with a custom chatbot in an introductory Algebra course </li>
+        <li> Date: 01/05/2025 </li>
+        <li> Location: University of Calgary </li>
+      </ul>
+    </li>
+  </ul>
+  <li> Canadian Undergraduate Mathematics Conference 2025 </li>
+  <ul>
+    <li> 
+      <ul>
+        <li> Title: Post-Quantum Cryptography: The Spine of the Supersingular Ell-Isogeny Graph </li>
+        <li> Date: 24/06/2025 </li>
+        <li> Location: University of Waterloo </li>
+      </ul>
+    </li>
+    <li> 
+      <ul>
+        <li> Title: Can AI Teach Proof? Student experiences with a custom chatbot in an introductory Algebra course </li>
+        <li> Date: 25/06/2025 </li>
+        <li> Location: University of Waterloo </li>
+      </ul>
+    </li>
   </ul>
 </ul>
 
