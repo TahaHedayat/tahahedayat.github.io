@@ -93,14 +93,14 @@
   </ul>
   <li> Alberta Math Diologue 2025 </li>
   <ul>
-    <li> 
+    <li> Talk 1:
       <ul>
         <li> Title: The Math Behind a Post-Quantum Cryptographic System: Supersingular Ell-Isogeny Graphs </li>
         <li> Date: 01/05/2025 </li>
         <li> Location: University of Calgary </li>
       </ul>
     </li>
-    <li> 
+    <li> Talk 2:
       <ul>
         <li> Title: Can AI teach proof? Student experiences with a custom chatbot in an introductory Algebra course </li>
         <li> Date: 01/05/2025 </li>
