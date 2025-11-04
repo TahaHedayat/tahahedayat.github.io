@@ -5,7 +5,6 @@
     width: 20%;
     }
 </style>
-  <title> Taha Hedayat </title>
 </head>
 <center> <h1> Taha Hedayat </h1> </center>
 
