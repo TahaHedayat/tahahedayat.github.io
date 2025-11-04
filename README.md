@@ -1,3 +1,5 @@
+<!DOCTYPE html>
+<html lang="en">
 <head>
 <style text="text/css">
   .img_deg{
@@ -175,3 +177,4 @@
       <li> math 31 <em>(High School Calculus)</em></li>
     </ul>
 </ul>
+</html>
